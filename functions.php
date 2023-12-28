@@ -1,6 +1,7 @@
 <?php
 
-namespace Inspira\Config;
+use Inspira\Config\Config;
+use Inspira\Config\Env;
 
 if (!function_exists('config')) {
 	/**

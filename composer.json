@@ -9,7 +9,10 @@
     "autoload": {
         "psr-4": {
             "Inspira\\Config\\": "."
-        }
+        },
+        "files": [
+            "functions.php"
+        ]
     },
     "authors": [
         {
